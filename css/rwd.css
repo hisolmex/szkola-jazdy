@@ -1,0 +1,39 @@
+@media (max-width: 769px) {
+    body .navbar-nav {
+        padding-top: 60px;
+    }
+    body section.contact .col-md-6.contact-box {
+        padding-left: 30px;
+    }
+    body footer ul.footer-ul {
+        padding-left: 0;
+    }
+}
+@media (max-width: 645px) {
+    body section.author .color-grey {
+        background: #474747;
+        min-height: 105px;
+        padding-bottom: 20px;
+    }
+    body section.author .link {
+        padding-bottom: 20px;
+    }
+}
+
+@media (max-width: 409px) {
+    body section.author .color-grey {
+        background: #474747;
+        min-height: 131px;
+    }
+}
+@media (max-width: 391px) {
+    body footer ul.footer-ul li {
+        line-height: 44px;
+    }
+    body section.author .link a.a-behance {
+        margin-left: 0;
+    }
+        body section.author .link {
+        height: 131px;
+    }
+}
